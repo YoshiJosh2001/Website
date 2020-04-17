@@ -5,3 +5,7 @@ body {
 #Welcome_Message {
     text-align: center;
 }
+#selfie {
+    width:500px;
+    height:500px;
+}
